@@ -1,0 +1,11 @@
+# Placeholder Resume File
+
+This is a placeholder file for Ritesh Kumar's resume. 
+In a real implementation, this would be replaced with an actual PDF resume file.
+
+To add a real resume:
+1. Replace this file with your actual PDF resume
+2. Ensure the file is named "resume.pdf"
+3. Place it in the public directory
+
+The resume download links in the portfolio will automatically use this file.
